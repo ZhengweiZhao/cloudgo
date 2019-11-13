@@ -1,4 +1,5 @@
-﻿@[TOC](Sevice Computing：开发 web 服务程序Cloudgo)
+# Sevice Computing：开发 web 服务程序Cloudgo
+
 # 1、概述
 开发简单 web 服务程序 cloudgo，了解 web 服务器工作原理。
 
@@ -225,6 +226,3 @@ ab命令具有如下图所示的参数选项，我们上面的命令用的是最
 全部完整参数含义如下，可以根据自己的需要自行查找和翻译：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191113090529354.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191113090600427.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
-
-[Github代码传送门](https://github.com/ZhengweiZhao/selpg/tree/master/Downloads/%E6%9C%8D%E5%8A%A1%E8%AE%A1%E7%AE%97/selpg)
-
